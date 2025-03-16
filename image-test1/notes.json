@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Animal"
+    },
+    {
+      "id": 1,
+      "name": "Chest"
+    },
+    {
+      "id": 2,
+      "name": "Fairy"
+    },
+    {
+      "id": 3,
+      "name": "Human"
+    },
+    {
+      "id": 4,
+      "name": "Monster"
+    },
+    {
+      "id": 5,
+      "name": "Ore"
+    },
+    {
+      "id": 6,
+      "name": "Tree"
+    },
+    {
+      "id": 7,
+      "name": "Waypoint"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

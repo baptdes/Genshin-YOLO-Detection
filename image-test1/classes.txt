@@ -1,0 +1,8 @@
+Animal
+Chest
+Fairy
+Human
+Monster
+Ore
+Tree
+Waypoint
