@@ -5,15 +5,19 @@ This project implements a YOLO-based environmental detection model for Genshin I
 ![Example Detection](illustration-images/exemple_detection.png)
 
 Thus, we've selected several key classes to detect:
-- 🌳 Trees  
-- 🧚 Fairies  
-- 🗝️ Chests  
-- 👹 Monsters  
-- 🧑‍🤝‍🧑 Humans 
-- ⛏️ Ores  
-- 📍 Waypoints  
-- 🐾 Terrestrial animals  
-- 🕊️ Flying animals
+1. 🧚 **Fairies** - Fairies that guide players to treasures.
+2. 🗝️ **Chests** - Treasure chests scattered across the map.
+3. 🪓 **Hilichurls** - Hilichurls, one of the most common enemies.
+4. 🌌 **The Abyss** - Abyss-related enemies.
+5. 😈 **Fatui** - Members of the Fatui faction.
+6. 🤖 **Automatons** - Ancient automatons and mechanical enemies.
+7. 🟢 **Slimes** - Slimes of various elemental types.
+8. 🧑‍🤝‍🧑 **Humans** - NPCs and other human characters.
+9. ⛏️ **Ores** - Mineable ores for crafting and upgrades.
+10. 📍 **Waypoints** - Teleport waypoints for fast travel.
+11. 🗿 **Statues of The Seven** - Statues used for healing, map unlocking, and fast travel.
+12. 🐾 **Terrestrial Animals** - Animals roaming the land.
+13. 🕊️ **Flying Animals** - Birds and other flying creatures.
 
 ## Project Structure
 
