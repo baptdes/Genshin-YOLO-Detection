@@ -28,7 +28,7 @@ Genshin-YOLO-Detection/
 
 ## Contributors
 
-- steno3 (Nino Rottier)
-- baptdes (Baptiste Desnouck)
-- Marwa El Omari
-- Théo Corsetti
+- [Nino Rottier](https://github.com/steno3)
+- [Baptiste Desnouck](https://github.com/baptdes)
+- [Marwa El Omari](https://github.com/marwa-elomari)
+- [Théo Corsetti]()
