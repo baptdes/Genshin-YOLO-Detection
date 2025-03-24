@@ -9,7 +9,7 @@ Thus, we've selected several key classes to detect:
 - 🧚 Fairies  
 - 🗝️ Chests  
 - 👹 Monsters  
-- 🧑‍🤝‍🧑 Humans  
+- 🧑‍🤝‍🧑 Humans 
 - ⛏️ Ores  
 - 📍 Waypoints  
 - 🐾 Terrestrial animals  
@@ -20,7 +20,7 @@ Thus, we've selected several key classes to detect:
 ```
 Genshin-YOLO-Detection/
 │
-├── training_notebook.py    # Python script for training the YOLO model
+├── training_notebook.py    # Python notebook used for training the YOLO model (in Google Colab)
 ├── /illustration-images    # Contains images used to illustrate the project
 ├── /dataset                # Directory containing the training dataset (and validation)
 └── README.md               # Project documentation (this file)
