@@ -12,13 +12,15 @@ Thus, we've selected several key classes to detect:
 5. 😈 **Fatui** - Members of the Fatui faction.
 6. 🤖 **Automatons** - Ancient automatons and mechanical enemies.
 7. 🟢 **Slimes** - Slimes of various elemental types.
-8. 🧑‍🤝‍🧑 **PlayableCharacters** - Characters that are part of the player's roster.
+8. 🧑‍🤝‍🧑 **Playable Characters** - Characters that are part of the player's roster.
 9. 🗣️ **NPCs** - Non-playable characters
 10. ⛏️ **Ores** - Mineable ores for crafting and upgrades.
 11. 📍 **Waypoints** - Teleport waypoints for fast travel.
 12. 🗿 **Statues of The Seven** - Statues used for healing, map unlocking, and fast travel.
 13. 🐾 **Terrestrial Animals** - Animals roaming the land.
 14. 🕊️ **Flying Animals** - Birds and other flying creatures.
+
+To learn more about how we construct our dataset, refer to the [Dataset Preparation](DATASET_PREPARATION.md).
 
 ## Project Structure
 
