@@ -38,4 +38,5 @@ Genshin-YOLO-Detection/
 - [Théo Corsetti]()
 
 ## Acknowledgments
-- YOLOv11 by Ultralytics
+- [YOLOv11 by Ultralytics](https://github.com/ultralytics/ultralytics)
+- [LabelStudio](https://labelstud.io/)
