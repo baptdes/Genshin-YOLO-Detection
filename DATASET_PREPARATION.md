@@ -2,7 +2,7 @@
 
 ## Source Images
 
-To build our dataset, we gathered images from two primary sources: screenshots from our own gameplay and images sourced from the internet. To enhance the variety, we also utilized the in-game camera functionality, which allowed us to capture focused images of specific objects, providing a richer and more diverse dataset.
+To build our dataset, we gathered images from two primary sources: screenshots from our own gameplay and images sourced from the internet. To enhance the variety, we also utilized the in-game camera functionality, which allowed us to capture focused images of objects/characters, providing a more diverse dataset.
 
 Below are examples of the types of images included in our dataset:
 
