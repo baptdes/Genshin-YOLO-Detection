@@ -19,7 +19,7 @@ Below are examples of the types of images included in our dataset:
 
 ## How We Label Them
 
-To label the images, we used a free open-source software called Label Studio, which is deployed on one of our personal servers. This allows us to collaboratively label the images. Once the images are labeled, we export them in the YOLO format.
+To label the images, we used a free open-source software called Label Studio, which is deployed on one of our personal servers. This setup allows us to collaboratively label the images. Considering that training involves downscaling image resolution, we chose not to label small objects in screenshots, as they would become irrelevant at lower resolutions (For photos, this issue is less common since the images are more focused). Once the images are labeled, we export them in the YOLO format.
 
 <div style="text-align: center;">
     <img src="illustration-images/labelstudio_example.png" alt="Example LabelStudio" style="max-width: 50%; height: auto;">
