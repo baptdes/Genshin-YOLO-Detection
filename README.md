@@ -27,9 +27,10 @@ To learn more about how we construct our dataset, refer to the [Dataset Preparat
 ```
 Genshin-YOLO-Detection/
 │
-├── training_notebook.py    # Python notebook used for training the YOLO model (in Google Colab)
+├── training_notebook.ipynb # Jupyter notebook used for training the YOLO model (in Google Colab)
 ├── /illustration-images    # Contains images used to illustrate the project
 ├── /dataset                # Directory containing the training dataset (and validation)
+├── DATASET_PREPARATION.md  # Documentation on how the dataset was prepared
 └── README.md               # Project documentation (this file)
 ```
 
