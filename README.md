@@ -32,3 +32,6 @@ Genshin-YOLO-Detection/
 - [Baptiste Desnouck](https://github.com/baptdes)
 - [Marwa El Omari](https://github.com/marwa-elomari)
 - [Théo Corsetti]()
+
+## Acknowledgments
+- YOLOv11 by Ultralytics
