@@ -34,12 +34,16 @@ Genshin-YOLO-Detection/
 └── README.md               # Project documentation (this file)
 ```
 
-## Contributors
+## Global Contributors
 
 - [Nino Rottier](https://github.com/steno3)
 - [Baptiste Desnouck](https://github.com/baptdes)
 - [Marwa El Omari](https://github.com/marwa-elomari)
 - [Théo Corsetti]()
+
+## DataSet Contributors
+
+- [OiseauDesNuages](https://github.com/OiseauDesNuages)
 
 ## Acknowledgments
 - [YOLOv11 by Ultralytics](https://github.com/ultralytics/ultralytics)
