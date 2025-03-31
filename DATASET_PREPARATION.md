@@ -19,7 +19,7 @@ Below are examples of the types of images included in our dataset:
 
 ## How We Label Them
 
-To label the images, we used a free open-source software called Label Studio, which is deployed on one of our personal servers. This setup allows us to collaboratively label the images. Considering that training involves downscaling image resolution, we chose not to label small objects in screenshots, as they would become irrelevant at lower resolutions (For photos, this issue is less common since the images are more focused). Once the images are labeled, we export them in the YOLO format.
+To label the images, we used a free open-source software called Label Studio, which is deployed on one of our personal servers. This setup allows us to collaboratively label the images. Once the images are labeled, we export them in the YOLO format.
 
 <div style="text-align: center;">
     <img src="illustration-images/labelstudio_example.png" alt="Example LabelStudio" style="max-width: 50%; height: auto;">
@@ -34,4 +34,4 @@ To ensure proper training and evaluation of our model, we split the dataset into
 2. **Validation Set**: 15% of the dataset is used to tune hyperparameters and prevent overfitting.
 3. **Test Set**: 10% of the dataset is used to evaluate the final performance of the model.
 
-The splitting is done randomly while ensuring that the distribution of classes remains consistent across all subsets.
+The splitting is done randomly for now. But, as we have unbalanced class, we may try to split the dataset smartly to ensure that the distribution of classes remains consistent across all subsets. One solution that can be implemented is a stratified split based on this [article](https://jaidevd.com/posts/obj-detection-stratification/). Another solution would be to use K-Fold Cross Validation, but it would significantly increase the training time.

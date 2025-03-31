@@ -22,6 +22,25 @@ Thus, we've selected several key classes to detect:
 
 To learn more about how we construct our dataset, refer to the [Dataset Preparation](DATASET_PREPARATION.md).
 
+## What to expect ?
+
+This object detection project is quite complicated as we have numerous classes with not enough images for each (Yes, we wanted to complicate our lives by choosing these classes). That's why we decided to include as many images as possible in the database while trying to maintain relatively balanced classes.
+
+Nevertheless, the classes will be unbalanced anyway as there will be more Playable Characters due to gameplay screens as you can see below.
+
+<figure style="text-align: center;">
+        <img src="illustration-images/screen_online.png" alt="Image from the internet" width="50%">
+            <figcaption>Gameplay screen</figcaption>
+</figure>
+
+Moreover, the playable character is almost always in the middle of the screen and there are also other classes in the minority.
+
+In brief, our biggest challenges here are to correct or at least mitigate these biases:
+* Playable Characters almost always in the middle
+* Unbalanced classes
+
+By addressing these issues, we hope to create a modest model that will detect not only playable characters but also the other classes.
+
 ## Project Structure
 
 ```
@@ -34,17 +53,15 @@ Genshin-YOLO-Detection/
 └── README.md               # Project documentation (this file)
 ```
 
-## Global Contributors
+## Contributors
 
 - [Nino Rottier](https://github.com/steno3)
 - [Baptiste Desnouck](https://github.com/baptdes)
 - [Marwa El Omari](https://github.com/marwa-elomari)
 - [Théo Corsetti]()
 
-## DataSet Contributors
-
-- [OiseauDesNuages](https://github.com/OiseauDesNuages)
-
 ## Acknowledgments
+- [OiseauDesNuages](https://github.com/OiseauDesNuages) for contributing images to our dataset
+
 - [YOLOv11 by Ultralytics](https://github.com/ultralytics/ultralytics)
 - [LabelStudio](https://labelstud.io/)
