@@ -58,7 +58,7 @@ Genshin-YOLO-Detection/
 - [Nino Rottier](https://github.com/steno3)
 - [Baptiste Desnouck](https://github.com/baptdes)
 - [Marwa El Omari](https://github.com/marwa-elomari)
-- [Théo Corsetti]()
+- [Théo Corsetti](https://github.com/RedGuy288)
 
 ## Acknowledgments
 - [OiseauDesNuages](https://github.com/OiseauDesNuages) for contributing images to our dataset
