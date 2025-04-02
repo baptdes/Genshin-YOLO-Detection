@@ -62,6 +62,7 @@ Genshin-YOLO-Detection/
 
 ## Acknowledgments
 - [OiseauDesNuages](https://github.com/OiseauDesNuages) for contributing images to our dataset
+- [FrozenPeak0701](https://github.com/FrozenPeak0701/GenshinYOLO23) for his in-game screenshot collection from his similar project
 
 - [YOLOv11 by Ultralytics](https://github.com/ultralytics/ultralytics)
 - [LabelStudio](https://labelstud.io/)
