@@ -49,7 +49,9 @@ Genshin-YOLO-Detection/
 ├── training_notebook.ipynb # Jupyter notebook used for training the YOLO model (in Google Colab)
 ├── /illustration-images    # Contains images used to illustrate the project
 ├── /dataset                # Directory containing the training dataset (and validation)
+├── /scripts                # Directory containing python scripts for diverse use
 ├── DATASET_PREPARATION.md  # Documentation on how the dataset was prepared
+├── dataset.txt             # link to our annoted datased for YOLO
 └── README.md               # Project documentation (this file)
 ```
 
